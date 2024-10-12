@@ -1,7 +1,8 @@
 <template>
   <div>
-    <h1>Welcome to My GLS Tracker</h1>
-    <PickupPointsMap />
+    <h1>Quriar Tracker</h1>
+    <!-- <PickupPointsMap /> -->
+    <PacketaWidget />
   </div>
 </template>
 
