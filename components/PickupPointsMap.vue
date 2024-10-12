@@ -2,11 +2,8 @@
   <v-container>
     <v-row>
       <v-col cols="12">
-        <h1>Select a GLS Pickup Point</h1>
-      </v-col>
-      <v-col cols="12">
         <!-- Button to open GLS Plugin -->
-        <v-btn color="primary" @click="openGlsMap">Select Pickup Point</v-btn>
+        <v-btn color="primary" @click="openGlsMap">Pickup Point</v-btn>
       </v-col>
       <v-col cols="12">
         <!-- Div where GLS plugin will render -->

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Welcome to My GLS Tracker</h1>
+    <h1>Qurier Tracker</h1>
     <PickupPointsMap />
   </div>
 </template>
