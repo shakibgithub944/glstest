@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Quriar Tracker</h1>
-    <!-- <PickupPointsMap /> -->
+    <PickupPointsMap />
     <PacketaWidget />
   </div>
 </template>

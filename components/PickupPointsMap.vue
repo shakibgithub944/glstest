@@ -63,9 +63,9 @@ export default {
           find: 1, // Allows users to find and select a pickup point
           noHeader: 0, // Show header (0 = show, 1 = hide)
           returnUrl: null, // No redirection after selection
-          ctrCode: "SK", // Show pickup points for Slovakia ('SK')
-          location: "Bratislava", // Center map to Bratislava initially
-          exclude: ["AlzaBoxSK"], // Example exclusion of pickup points
+          ctrCode: "SL", // Show pickup points for Slovakia ('SL')
+          // location: "Budapest", // Center map to Bratislava initially
+          exclude: ["AlzaBoxSL"], // Example exclusion of pickup points
         });
       } else {
         console.log("GLS Widget is not loaded yet.");

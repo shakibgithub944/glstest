@@ -35,8 +35,8 @@ export default {
       if (typeof Packeta !== "undefined" && Packeta.Widget) {
         const apiKey = "c162186b5771d0f2"; // Replace with your actual API key
         const options = {
-          language: "en", // Widget language
-          country: "cz,au, be, gb", // Specify the country or region you want to focus on
+          language: "bg", // Widget language
+          country: "cz", //cz Specify the country or region you want to focus on
         };
 
         Packeta.Widget.pick(apiKey, this.handlePickupPoint, options);
