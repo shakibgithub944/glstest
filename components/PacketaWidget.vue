@@ -35,7 +35,7 @@ export default {
       if (typeof Packeta !== "undefined" && Packeta.Widget) {
         const apiKey = "c162186b5771d0f2"; // Replace with your actual API key
         const options = {
-          language: "bg", // Widget language
+          language: "en", // Widget language
           country: "cz", //cz Specify the country or region you want to focus on
         };
 
@@ -64,7 +64,7 @@ export default {
   
   <style scoped>
 button {
-  background-color: #008cba;
+  background-color: #8b151b;
   color: white;
   padding: 10px 20px;
   border: none;
@@ -74,7 +74,7 @@ button {
 }
 
 button:hover {
-  background-color: #007bb5;
+  background-color: #790006;
 }
 
 h3 {
